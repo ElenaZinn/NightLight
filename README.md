@@ -1,6 +1,7 @@
 # NightLight
 小夜灯
 
+Code by using DeepClaude.
 
 Version 1
 1. Change the light color
